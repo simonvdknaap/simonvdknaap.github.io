@@ -18,8 +18,9 @@ Don't get me wrong. I know we cannot stop the development, implementation and us
 
 Study Plan
 ------
-<img src='/images/studyplan.jpg'> </br>
-text
+<img src='/images/studyplan.jpg'>
+I am expecting a bit of delay in my study plan, since I failed two courses in the second period. I therefore updated the study plan accordingly.
+Out of the courses I enjoyed X and Y the most, since Z.
 
 For more info
 ------
