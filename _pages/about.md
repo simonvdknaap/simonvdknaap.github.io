@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HCI portfolio website: About SvdK"
+title: "HCI portfolio website - About SvdK"
 author_profile: true
 redirect_from: 
   - /about/
