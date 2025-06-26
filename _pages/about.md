@@ -18,7 +18,8 @@ Don't get me wrong. I know we cannot stop the development, implementation and us
 
 Study Plan
 ------
-
+<img src='/images/studyplan.jpg'> </br>
+text
 
 For more info
 ------
