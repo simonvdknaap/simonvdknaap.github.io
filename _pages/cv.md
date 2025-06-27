@@ -26,5 +26,6 @@ Skills
 * Programming
   * Python
   * Web (HTML / CSS / JavaScript)
+  * Automation (also hardware-related)
 * Interface Design
 * Problem solving
