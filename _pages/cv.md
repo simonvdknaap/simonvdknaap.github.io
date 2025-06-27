@@ -18,7 +18,7 @@ Work experience
 ======
 * 2021 - 2023: Student Ambassador
   * University of Amsterdam
-  * Duties includes: Presenting at high schools, preparation for open campus days, answering questions
+  * Tasks included: Presenting at high schools, preparation for and presenting on open campus days, answering questions
   
 Skills
 ======
