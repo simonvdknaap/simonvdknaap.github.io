@@ -4,7 +4,7 @@ excerpt: "This group project consisted of BLE problem solving, soldering and car
 collection: portfolio
 ---
 
-<video controls="controls" width="600" height="800" name="Demo UnfORBgettable">
+<video controls="controls" width="270" height="360" name="Demo UnfORBgettable">
   <source src="/images/project1_smaller.mov">
 </video>
 
