@@ -18,7 +18,7 @@ Don't get me wrong. I know we cannot stop the development, implementation and us
 
 Interests
 ------
-Human-Focussed Artificial Intelligence | (UI/UX) Design | Technical solutions | Edge Compute | (Home & Energy) Automation | Photography | Problem solving
+Human-Focussed Artificial Intelligence | Privacy by Design | Ethics of Technology | Self Hosting | (Home & Energy) Automation | Photography | Problem solving
 
 Study Plan
 ------
