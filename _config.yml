@@ -22,7 +22,7 @@ repository               : "simonvdknaap/simonvdknaap.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Simon van der Knaap"
   pronouns         : # "he/his"  
   bio              : "Currently a MSc Human Computer Interaction student at Utrecht University"
