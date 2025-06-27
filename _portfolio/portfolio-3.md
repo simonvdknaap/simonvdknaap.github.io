@@ -1,6 +1,6 @@
 ---
 title: "Personal project - Home Automation"
-excerpt: "This ongoing project consists of problem analysis, solution creation and evaluation.<br/><img src='/images/Project3.jpg'>"
+excerpt: "This ongoing project consists of problem analysis, solution creation and evaluation.<br/><img src='/images/Project3.png'>"
 collection: portfolio
 ---
 
