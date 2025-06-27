@@ -1,6 +1,6 @@
 ---
 title: "Project 1 - INFOMITI"
-excerpt: "This group project consisted of BLE problem solving, soldering and careful planning.<br/><img src='/images/500x300.png'>"
+excerpt: "This group project consisted of BLE problem solving, soldering and careful planning.<br/><img src='/images/Project1.jpg'>"
 collection: portfolio
 ---
 
