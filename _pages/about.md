@@ -24,7 +24,7 @@ Study Plan
 ------
 <img src='/images/studyplan.jpg'>
 I am expecting a bit of delay in my study plan, since I failed two courses in the second period. I therefore updated the study plan accordingly.
-Out of the courses I enjoyed 'Interaction Technology and Innovation' and 'Multimodal Interaction' the most, since these focussed most on designing physical and digital solutions to day-to-day problems one might have. In these cases I found it 
+Out of the courses I enjoyed 'Interaction Technology and Innovation' and 'Multimodal Interaction' the most, since these focussed most on designing innovative physical and digital solutions to day-to-day problems one might have. In these cases I found it instructive to work with a motivated group of students and finding myself passionate about it. This helped to push myself to make the best version of the project possible.
 
 For more info
 ------
