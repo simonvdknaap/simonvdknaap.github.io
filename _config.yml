@@ -22,7 +22,7 @@ repository               : "simonvdknaap/simonvdknaap.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.jpg"
   name             : "Simon van der Knaap"
   pronouns         : # "he/his"  
   bio              : "Currently a MSc Human Computer Interaction student at Utrecht University"
@@ -232,8 +232,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -267,8 +267,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
