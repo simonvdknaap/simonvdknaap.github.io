@@ -14,13 +14,17 @@ These strategies made me realise the importance of truly beneficial and function
 
 Nowadays, artificial intelligence is added to most digital interfaces in a general manner to 'enhance the experience' by just being present, but not serving a pre-defined or user-requested purpose (writing this I see 'Code 55% faster with GitHub Copilot' on top of the window). This feels aimless, lacks focus on a user's task at hand and hinders intuitive interaction for most. Besides negative effects on the interface, these additions come at a cost as well. These models need vast amounts of electrical, compute and cooling power, as well as unimaginable amounts of training data (which companies acquire without consent from copyright holders), all of which should be assessed to result in a quantifiable better product experience whilst mitigating their negative effects. Therefore careful consideration before and reflection after implementation is even more important than before to make sure these 'tools' do not degrade the experience, ethics and usability of the interface.
 
-Don't get me wrong. I know we cannot stop the development, implementation and usage of AI tools. Most of you will use it regularly and want to keep using it, but it needs to have a clear function. And right now, offering it to everyone and everywhere, it does not. It degrades one's ability to think critically, hinders learning new skills, limits the need of social interaction and help spread misinformation to even further destabilise society. This further stresses the importance of HCI professionals like myself who want to serve society with their skill and time.
+Don't get me wrong. I know we cannot stop the development, implementation and usage of AI tools. Most of you will use it regularly and want to keep using it, but it needs to have a clear function. And right now, offering it to everyone and everywhere, it does not. It degrades one's ability to think critically, hinders learning new skills, limits the need of social interaction and help spread misinformation to even further destabilise society. This further stresses the importance of HCI professionals like myself who want to serve society with their skills and time.
+
+Interests
+------
+Human-Focussed Artificial Intelligence | (UI/UX) Design | Technical solutions | Edge Compute | (Home & Energy) Automation | Photography | Problem solving
 
 Study Plan
 ------
 <img src='/images/studyplan.jpg'>
 I am expecting a bit of delay in my study plan, since I failed two courses in the second period. I therefore updated the study plan accordingly.
-Out of the courses I enjoyed X and Y the most, since Z.
+Out of the courses I enjoyed 'Interaction Technology and Innovation' and 'Multimodal Interaction' the most, since these focussed most on designing physical and digital solutions to day-to-day problems one might have. In these cases I found it 
 
 For more info
 ------
