@@ -1,7 +1,7 @@
 ---
 title: "Project 2 - INFOMMMI"
 excerpt: "This group project consisted of creating a virtual 
-environment in Blender, sound cues and tight collaboration.<br/><img src='/images/500x300.png'>"
+environment in Blender, sound cues and tight group collaboration.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
